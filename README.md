@@ -2,7 +2,7 @@
   
 </picture>
 
-<img src="https://imgur.com/QWk73tY.jpg">
+<img src="https://imgur.com/EY7qodw.jpg">
 
 <h2>ABOUT ME <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" width="30" height="30"></h2>
 
