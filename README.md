@@ -1,13 +1,11 @@
 <h2 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30" height="30"> I'am Ricardo NM</h2>
-  
-</picture>
 
 <img src="https://imgur.com/EY7qodw.jpg">
 
 <h2>ABOUT ME <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" width="30" height="30"></h2>
 
 <p>
-My name is Ricardo Nava Mayoral, I'm 22 years old and I'm recent graduate of the Bachelor's Degree in Computer Science, with a comprehensive background, focusing on: designing, configuring, evaluating, and implementing projects in computing services environments.
+My name is Ricardo Nava Mayoral, I'm 22 years old and I'm recent graduate of the Bachelor's Degree in Computer Science, with a comprehensive background, focusing on: designing, configuring, evaluating, and implementing projects in computing services environments. <img src="https://imgur.com/lOY179q.jpg" width="280" height="280" align='right'>
 
 Able to find innovative solutions, proposing methodologies through the application of information technologies.
 
@@ -16,7 +14,7 @@ Able to find innovative solutions, proposing methodologies through the applicati
 - 🧠 I'am currently working, learning and developing my skills in front-end and back-end web development
 - 🤝 Open to collaborations in design and user experience
 - 🔎 Looking for opportunities to join the web design and development team full-time
-- 📖 Visit my [porfolio website](https://github.com/Ricardo-NM) for complete background and contact
+- 📖 Visit my [porfolio website](https://ricardo-nm-portafolio.netlify.app/) for complete background and contact
 
 <div align="right">
   <a href="https://www.linkedin.com/in/ricardo-nava-mayoral-5a3228314/">
