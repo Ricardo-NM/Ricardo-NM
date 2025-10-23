@@ -11,9 +11,9 @@ I'm recognized for my analytical and collaborative mindset, committed to continu
 
 - 🧑‍💻 Software developer
 - 🎓 Bachelor's degree in Computer Sciences
-- 🧠 I'am currently working, learning and developing my skills in front-end and back-end web development
+- 🧠 I'am currently working, learning and developing my skills in front-end and back-end development
 - 🤝 Open to collaborations in design and user experience
-- 🔎 Looking for opportunities to join the web design and development team full-time
+- 🔎 Looking for opportunities to join the development team full-time
 - 📖 Visit my [porfolio website](https://ricardo-nm-portafolio.netlify.app/) for complete background and contact
 
 <div align="right">
