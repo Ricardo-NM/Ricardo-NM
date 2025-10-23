@@ -5,9 +5,9 @@
 <h2>ABOUT ME <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" width="30" height="30"></h2>
 
 <p>
-My name is Ricardo Nava Mayoral, I'm 22 years old and I'm recent graduate of the Bachelor's Degree in Computer Science, with a comprehensive background, focusing on: designing, configuring, evaluating, and implementing projects in computing services environments. <img src="https://imgur.com/lOY179q.jpg" width="280" height="280" align='right'>
+My name is Ricardo Nava Mayoral, I'm 23 years old and I hold a Bachelor’s degree in Computer Science with a strong foundation in software development and a results-oriented approach. I have experience in programming, design, and implementation of technological solutions, applying modern development methodologies and software engineering best practices. <img src="https://imgur.com/lOY179q.jpg" width="280" height="280" align='right'>
 
-Able to find innovative solutions, proposing methodologies through the application of information technologies.
+I'm recognized for my analytical and collaborative mindset, committed to continuous improvement and the creation of efficient tools that optimize processes and adapt to the evolving needs of business and technology environments.
 
 - 🧑‍💻 Software developer
 - 🎓 Bachelor's degree in Computer Sciences
