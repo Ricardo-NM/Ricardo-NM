@@ -5,7 +5,7 @@
 <h2>ABOUT ME <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" width="30" height="30"></h2>
 
 <p>
-My name is Ricardo Nava Mayoral, I'm a Full Stack Developer with a background in Computer Science, focused on building modern web applications and practical software solutions. I enjoy developing systems that help businesses manage information, optimize processes and improve their daily operations. My work usually involves designing and implementing complete solutions, from user interfaces to backend services and databases. Currently, I'm focused on improving my skills in full stack development and collaborating on projects that create real impact. <img src="https://imgur.com/lOY179q.jpg" width="280" height="280" align='right'>
+My name is Ricardo Nava Mayoral, I'm a Full Stack Developer with a background in Computer Science, focused on building modern web applications and practical software solutions. I enjoy developing systems that help businesses manage information, optimize processes and improve their daily operations. My work usually involves designing and implementing complete solutions, from user interfaces to backend services and databases. Currently, I'm focused on improving my skills in full stack development and collaborating on projects that create real impact. <img src="https://imgur.com/lOY179q.jpg" width="270" height="270" align='right'>
 
 I'm recognized for my analytical and collaborative mindset, committed to continuous improvement and the creation of efficient tools that optimize processes and adapt to the evolving needs of business and technology environments.
 
@@ -74,7 +74,7 @@ I'm recognized for my analytical and collaborative mindset, committed to continu
 
 <br>
 
-<h2>GITHUB STATS <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/lottie.json" width="30" height="30"></h2>
+<h2>GITHUB STATS <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/lottie.gif" width="30" height="30"></h2>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-NM&show_icons=true&theme=dark&border=true" />
