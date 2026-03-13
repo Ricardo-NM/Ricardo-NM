@@ -1,19 +1,19 @@
-<h2 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30" height="30"> I'am Ricardo NM</h2>
+<h2 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30" height="30"> I'm Ricardo NM</h2>
 
 <img src="https://imgur.com/EY7qodw.jpg">
 
 <h2>ABOUT ME <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" width="30" height="30"></h2>
 
 <p>
-My name is Ricardo Nava Mayoral, I'm 23 years old and I hold a Bachelor’s degree in Computer Science with a strong foundation in software development and a results-oriented approach. I have experience in programming, design, and implementation of technological solutions, applying modern development methodologies and software engineering best practices. <img src="https://imgur.com/lOY179q.jpg" width="280" height="280" align='right'>
+My name is Ricardo Nava Mayoral, I'm a Full Stack Developer with a background in Computer Science, focused on building modern web applications and practical software solutions. I enjoy developing systems that help businesses manage information, optimize processes and improve their daily operations. My work usually involves designing and implementing complete solutions, from user interfaces to backend services and databases. Currently, I'm focused on improving my skills in full stack development and collaborating on projects that create real impact. <img src="https://imgur.com/lOY179q.jpg" width="280" height="280" align='right'>
 
 I'm recognized for my analytical and collaborative mindset, committed to continuous improvement and the creation of efficient tools that optimize processes and adapt to the evolving needs of business and technology environments.
 
-- 🧑‍💻 Software developer
-- 🎓 Bachelor's degree in Computer Sciences
-- 🧠 I'am currently working, learning and developing my skills in front-end and back-end development
-- 🤝 Open to collaborations in design and user experience
-- 🔎 Looking for opportunities to join the development team full-time
+- 🧑‍💻 Full Stack Developer
+- 🎓 Bachelor's degree in Computer Science
+- 🚀 Currently improving my skills in front-end and back-end development
+- 🤝 Open to collaboration on web development and UI/UX projects
+- 💼 Open to full-time opportunities in software development
 - 📖 Visit my [porfolio website](https://ricardo-nm-portafolio.netlify.app/) for complete background and contact
 
 <div align="right">
@@ -29,14 +29,16 @@ I'm recognized for my analytical and collaborative mindset, committed to continu
 
 <h2>TECHNOLOGIES <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="30" height="30"></h2>
 
-### 🖥️ &nbsp;Programming Languages
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+### 🖥️ &nbsp;Main Stack
+[![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### 📲 &nbsp;Front-End
+[![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23430098.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
@@ -47,14 +49,13 @@ I'm recognized for my analytical and collaborative mindset, committed to continu
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 
 ### 🛢️ &nbsp;Databases
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### 🧰 &nbsp;Development Tools
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ### 🎨 &nbsp;Design and Prototyping
 [![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=red)](https://figma.com/)
@@ -65,9 +66,15 @@ I'm recognized for my analytical and collaborative mindset, committed to continu
 ### 📋 &nbsp;Productivity
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 
+<h2>FEATURED PROJECTS <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" height="30"></h2>
+
+- 🚢 Commerce operations management system: Full stack platform built with React, Node.js and MySQL to manage international trade operations.
+- 📞 Call center sales management System: Application developed with Flutter and Node.js to track sales performance and calculate commissions.
+- 🗃️ Asset management system: Enterprise system built with .NET and MySQL for tracking company assets and employee assignments.
+
 <br>
 
-<h2>GITHUB STATS <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" height="30"></h2>
+<h2>GITHUB STATS <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/lottie.json" width="30" height="30"></h2>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-NM&show_icons=true&theme=dark&border=true" />
