@@ -1,6 +1,6 @@
 <h2 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="24" height="24"> I'm Ricardo NM</h2>
 
-<img src="https://imgur.com/lOY179q.jpg"
+<img src="https://imgur.com/lOY179q.jpg">
 
 <h2>ABOUT ME <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" alt="🤓" width="24" height="24"></h2>
 
