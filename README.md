@@ -1,6 +1,6 @@
 <h2 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="24" height="24"> I'm Ricardo NM</h2>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/TLZv7xc" data-context="false" ><a href="//imgur.com/a/TLZv7xc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/lOY179q.jpg"
 
 <h2>ABOUT ME <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" alt="🤓" width="24" height="24"></h2>
 
