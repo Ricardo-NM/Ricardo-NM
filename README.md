@@ -14,7 +14,7 @@ I'm recognized for my analytical and collaborative mindset, committed to continu
 - 🚀 Currently improving my skills in front-end and back-end development
 - 🤝 Open to collaboration on web development and UI/UX projects
 - 💼 Open to full-time opportunities in software development
-- 📖 Visit my [porfolio website](https://ricardo-nm-portafolio.netlify.app/) for complete background and contact
+- 📖 Visit my [porfolio website](https://rnm-portafolio.vercel.app/) for complete background and contact
 
 <div align="right">
   <a href="https://www.linkedin.com/in/ricardo-nava-mayoral-5a3228314/">
