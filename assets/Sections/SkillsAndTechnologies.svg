@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="259.159" height="48.000" viewBox="0 0 259.159 48.000" role="img" aria-label="Skills and Technologies">
+  <g transform="scale(0.600)">
+  <rect stroke="#000000" stroke-width="2" width="431.9319" height="80" rx="20" fill="#ffffff"/>
+  <text x="187.6367" y="42" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" text-anchor="middle" dominant-baseline="middle">Skills and Technologies</text>
+
+  <g transform="translate(367.432 22) scale(1.5)" aria-label="Code XML icon">
+    <path d="m18 16 4-4-4-4" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m6 8-4 4 4 4" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m14.5 4-5 16" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  </g>
+</svg>

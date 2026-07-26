@@ -1,86 +1,76 @@
-<h2 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="24" height="24"> I'm Ricardo NM</h2>
+<img src="./assets/Console.svg" width="320" height="320" align='right'>
 
-<img src="https://imgur.com/YwOmVC1.jpg">
+<img src="./assets/Sections/HiImRichard.svg" alt="Hi, I'm Richard">
 
-<h2>ABOUT ME <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" alt="🤓" width="24" height="24"></h2>
+My name is Ricardo Nava Mayoral, I'm a **Full Stack Developer** with a background in Computer Science, focused on building modern web applications and practical software solutions.
 
-<p>
-My name is Ricardo Nava Mayoral, I'm a Full Stack Developer with a background in Computer Science, focused on building modern web applications and practical software solutions. I enjoy developing systems that help businesses manage information, optimize processes and improve their daily operations. My work usually involves designing and implementing complete solutions, from user interfaces to backend services and databases. Currently, I'm focused on improving my skills in full stack development and collaborating on projects that create real impact. <img src="https://imgur.com/lOY179q.jpg" width="270" height="270" align='right'>
+<br>
 
-I'm recognized for my analytical and collaborative mindset, committed to continuous improvement and the creation of efficient tools that optimize processes and adapt to the evolving needs of business and technology environments.
+<img src="./assets/Sections/AboutMe.svg" alt="About Me">
 
-- 🧑‍💻 Full Stack Developer
-- 🎓 Bachelor's degree in Computer Science
-- 🚀 Currently improving my skills in front-end and back-end development
-- 🤝 Open to collaboration on web development and UI/UX projects
-- 💼 Open to full-time opportunities in software development
-- 📖 Visit my [porfolio website](https://rnm-portafolio.vercel.app/) for complete background and contact
+- **Specialist** in the development of enterprise systems, administrative platforms, and web applications.
+- Proficiency in development tools and technologies to **solve technical problems** and create functional, scalable, and well-structured solutions.
+- Involvement in the entire **development lifecycle**, from analysis and design to deployment, continuous improvement, and system optimization.
 
-<div align="right">
-  <a href="https://www.linkedin.com/in/ricardo-nava-mayoral-5a3228314/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<br>
+
+<img src="./assets/Sections/FeaturedProjects.svg" alt="Featured Projects">
+
+- [**KUENTAS:**](https://github.com/Ricardo-NM/KUENTAS) Web application currently under development for managing personal financial information via a private dashboard. It features custom authentication, secure sessions, password recovery, multilingual support, and initial views for payments, a calendar, statistics, and settings.
+- [**Gestión operativa – Comercio exterior:**](https://ricardo-nm.github.io/K-PUGA-Docs/) A private system designed to centralize operational, administrative, and document-related processes concerning logistics management, reference tracking, document control, invoicing, reporting, internal communication, and human resources activities.
+- [**Totis® | Gestión de bienes:**](https://ricardo-nm.github.io/totis-gdb-docs/) A web-based system designed for the operational management and control of accounting fixed assets. Its purpose is to centralize information, facilitate internal requests, maintain movement traceability, and support the generation of documents related to assignments, write-offs, returns, and transfers.
+
+<br>
+
+<img src="./assets/Sections/SkillsAndTechnologies.svg" alt="Skills and Technologies">
+
+My experience spans frontend, backend, databases, and infrastructure, enabling me to design, develop, and deploy complete, **scalable solutions** aligned with business needs.<br>
+
+**FRONTEND**<br>
+<img width="36" src="./assets/Technologies/javascript-circular.svg" alt="JavaScript" title="JavaScript">
+<img width="36" src="./assets/Technologies/typescript-circular.svg" alt="TypeScript" title="TypeScript">
+<img width="36" src="./assets/Technologies/html5-circular.svg" alt="HTML5" title="HTML5">
+<img width="36" src="./assets/Technologies/css-circular.svg" alt="CSS3" title="CSS3">
+<img width="36" src="./assets/Technologies/tailwindcss-circular.svg" alt="Tailwind CSS" title="Tailwind CSS">
+<img width="36" src="./assets/Technologies/react-circular.svg" alt="React" title="React">
+<img width="36" src="./assets/Technologies/expo-circular.svg" alt="Expo" title="Expo">
+<img width="36" src="./assets/Technologies/flutter-circular.svg" alt="Flutter" title="Flutter">
+<img width="36" src="./assets/Technologies/nextdotjs-circular.svg" alt="Next.js" title="Next.js">
+
+**BACKEND**<br>
+<img width="36" src="./assets/Technologies/dotnet-circular.svg" alt=".NET" title=".NET">
+<img width="36" src="./assets/Technologies/nodedotjs-circular.svg" alt="Node.js" title="Node.js">
+<img width="36" src="./assets/Technologies/nestjs-circular.svg" alt="NestJS" title="NestJS">
+<img width="36" src="./assets/Technologies/express-circular.svg" alt="Express.js" title="Express.js">
+<img width="36" src="./assets/Technologies/prisma-circular.svg" alt="Prisma" title="Prisma">
+
+**DATABASES**<br>
+<img width="36" src="./assets/Technologies/mongodb-circular.svg" alt="MongoDB" title="MongoDB">
+<img width="36" src="./assets/Technologies/postgresql-circular.svg" alt="PostgreSQL" title="PostgreSQL">
+<img width="36" src="./assets/Technologies/mysql-circular.svg" alt="MySQL" title="MySQL">
+<img width="36" src="./assets/Technologies/redis-circular.svg" alt="Redis" title="Redis">
+
+**DEVELOPMENT TOOLS**<br>
+<img width="36" src="./assets/Technologies/git-circular.svg" alt="Git" title="Git">
+<img width="36" src="./assets/Technologies/github-circular.svg" alt="GitHub" title="GitHub">
+<img width="36" src="./assets/Technologies/docker-circular.svg" alt="Docker" title="Docker">
+<img width="36" src="./assets/Technologies/eslint-circular.svg" alt="ESLint" title="ESLint">
+<img width="36" src="./assets/Technologies/figma-circular.svg" alt="Figma" title="Figma">
+<img width="36" src="./assets/Technologies/linux-circular.svg" alt="Linux" title="Linux">
+<img width="36" src="./assets/Technologies/nginx-circular.svg" alt="Nginx" title="Nginx">
+<img width="36" src="./assets/Technologies/pm2-circular.svg" alt="PM2" title="PM2">
+
+<br>
+
+<img src="./assets/Sections/ContactMe.svg" alt="Contact Me">
+
+Visit my [**porfolio website**](https://rnm-portafolio.vercel.app/) for complete background and contact.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ricardo-nava-mayoral/">
+    <img width="100" src="./assets/Buttons/LinkedIn.svg" alt="LinkedIn" />
   </a>
   <a href="mailto:lic.ricardo.nm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img width="90" src="./assets/Buttons/Gmail.svg" alt="Gmail" />
   </a>
-</div>
-
-</p>
-
-<br>
-
-<h2>TECHNOLOGIES <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="24" height="24"></h2>
-
-### 🖥️ &nbsp;Main Stack
-[![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-### 📲 &nbsp;Front-End
-[![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23430098.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-
-### 🌐 &nbsp;Back-End
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-
-### 🛢️ &nbsp;Databases
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-### 🧰 &nbsp;Development Tools
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
-### 🎨 &nbsp;Design and Prototyping
-[![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=red)](https://figma.com/)
-[![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
-[![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
-
-### 📋 &nbsp;Productivity
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
-
-<br>
-
-<h2>FEATURED PROJECTS <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="24" height="24"></h2>
-
-- 🚢 Commerce operations management system: Full stack platform built with React, Node.js and MySQL to manage international trade operations.
-- 📞 Call center sales management system: Application developed with Flutter and Node.js to track sales performance and calculate commissions.
-- 🗃️ Asset management system: Enterprise system built with .NET and MySQL for tracking company assets and employee assignments.
-
-<br>
-
-<h2>GITHUB STATS <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/512.gif" alt="🏁" width="24" height="24"></h2>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-NM&show_icons=true&theme=dark&border=true" />
-  <img src="https://streak-stats.demolab.com/?user=Ricardo-NM&theme=dark&border=true" />
 </div>

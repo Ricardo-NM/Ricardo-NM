@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184.921" height="48.000" viewBox="0 0 184.921 48.000" role="img" aria-label="Hi, I'm Richard">
+  <g transform="scale(0.600)">
+  <rect stroke="#000000" stroke-width="2" width="308.201" height="80" rx="20" fill="#ffffff"/>
+  <text x="125.5869" y="42" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" text-anchor="middle" dominant-baseline="middle">Hi, I'm Richard</text>
+
+  <g transform="translate(243.701 22) scale(1.5)" aria-label="Smile icon">
+    <circle cx="12" cy="12" r="10" fill="none" stroke="#000000" stroke-width="2"/>
+    <path d="M8 14s1.5 2 4 2 4-2 4-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="9" x2="9.01" y1="9" y2="9" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+    <line x1="15" x2="15.01" y1="9" y2="9" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  </g>
+</svg>
