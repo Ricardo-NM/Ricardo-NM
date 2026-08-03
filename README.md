@@ -17,7 +17,7 @@ My name is Ricardo Nava Mayoral, I'm a **Full Stack Developer** with a backgroun
 <img src="./assets/Sections/FeaturedProjects.svg" alt="Featured Projects">
 
 - [**KUENTAS:**](https://github.com/Ricardo-NM/KUENTAS) Web application currently under development for managing personal financial information via a private dashboard. It features custom authentication, secure sessions, password recovery, multilingual support, and initial views for payments, a calendar, statistics, and settings.
-- [**Xbox Card Studio:**](https://github.com/Ricardo-NM/xbox-card-studio) Interactive web app to generate high-res 9:16 personalized Xbox Live gamer profiles for social media. Secure Xbox Live OAuth 2.0 PKCE login with zero backend storage.
+- [**Xbox Card Studio:**](https://xcs.rnm.com.mx) Interactive web app to generate high-res 9:16 personalized Xbox Live gamer profiles for social media. Secure Xbox Live OAuth 2.0 PKCE login with zero backend storage.
 - [**ERP para comercio exterior:**](https://ricardo-nm.github.io/K-PUGA-Docs/) A private system designed to centralize operational, administrative, and document-related processes concerning logistics management, reference tracking, document control, invoicing, reporting, internal communication, and human resources activities.
 
 <br>
