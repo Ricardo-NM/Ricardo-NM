@@ -17,8 +17,8 @@ My name is Ricardo Nava Mayoral, I'm a **Full Stack Developer** with a backgroun
 <img src="./assets/Sections/FeaturedProjects.svg" alt="Featured Projects">
 
 - [**KUENTAS:**](https://github.com/Ricardo-NM/KUENTAS) Web application currently under development for managing personal financial information via a private dashboard. It features custom authentication, secure sessions, password recovery, multilingual support, and initial views for payments, a calendar, statistics, and settings.
-- [**Gestión operativa – Comercio exterior:**](https://ricardo-nm.github.io/K-PUGA-Docs/) A private system designed to centralize operational, administrative, and document-related processes concerning logistics management, reference tracking, document control, invoicing, reporting, internal communication, and human resources activities.
-- [**Totis® | Gestión de bienes:**](https://ricardo-nm.github.io/totis-gdb-docs/) A web-based system designed for the operational management and control of accounting fixed assets. Its purpose is to centralize information, facilitate internal requests, maintain movement traceability, and support the generation of documents related to assignments, write-offs, returns, and transfers.
+- [**Xbox Card Studio:**](https://github.com/Ricardo-NM/xbox-card-studio) Interactive web app to generate high-res 9:16 personalized Xbox Live gamer profiles for social media. Secure Xbox Live OAuth 2.0 PKCE login with zero backend storage.
+- [**ERP para comercio exterior:**](https://ricardo-nm.github.io/K-PUGA-Docs/) A private system designed to centralize operational, administrative, and document-related processes concerning logistics management, reference tracking, document control, invoicing, reporting, internal communication, and human resources activities.
 
 <br>
 
@@ -64,7 +64,7 @@ My experience spans frontend, backend, databases, and infrastructure, enabling m
 
 <img src="./assets/Sections/ContactMe.svg" alt="Contact Me">
 
-Visit my [**porfolio website**](https://rnm.com.mx/) for complete background and contact.
+Visit my [**porfolio website**](https://rnm.com.mx) for complete background and contact.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ricardo-nava-mayoral/">
